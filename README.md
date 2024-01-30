@@ -1,2 +1,1 @@
-# ohos
-OpenHarmony/HarmonyOS 开发
+# OpenHarmony/HarmonyOS 开发
